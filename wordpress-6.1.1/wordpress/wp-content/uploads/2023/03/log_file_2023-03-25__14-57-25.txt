@@ -1,0 +1,45 @@
+
+---Downloaded files---
+The import files for: Ambrox Demo were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://localhost/portfolio/wordpress-6.1.1/wordpress
+Data file = C:\MAMP\htdocs\portfolio\wordpress-6.1.1\wordpress/wp-content/themes/ambrox/inc/demo-data/ambrox-demo.xml
+Widget file = C:\MAMP\htdocs\portfolio\wordpress-6.1.1\wordpress/wp-content/themes/ambrox/inc/demo-data/ambrox-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+ambrox_opt -> C:\MAMP\htdocs\portfolio\wordpress-6.1.1\wordpress/wp-content/themes/ambrox/inc/demo-data/redux_options_demo.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Ambrox :: Recent Posts - Recent Posts - Imported
+Block - No Title - Imported
+
+Page Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: ambrox_opt finished successfully!
+
+---ocdi/after_import---
+
