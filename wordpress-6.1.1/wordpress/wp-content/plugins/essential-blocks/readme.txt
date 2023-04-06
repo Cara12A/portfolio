@@ -2,9 +2,9 @@
 Contributors: wpdevteam, re_enter_rupok, asif2bd, rahat89, priyomukul, hztyfoon, fencermonir, jamilbd07, sumaiyasiddika
 Tags: gutenberg, blocks, editor, gutenberg blocks, block, visual editor, page builder
 Requires at least: 5.8
-Tested up to: 6.1
+Tested up to: 6.2
 Requires PHP: 5.6
-Stable tag: 4.0.4
+Stable tag: 4.0.5
 License: GPLv3
 License URI: https://opensource.org/licenses/GPL-3.0
 
@@ -196,6 +196,11 @@ Yes. You will need the Gutenberg block editor installed and activated in your Wo
 If you found the recent version of Essential Blocks isn't working or conflicting with other plugins then you can use earlier versions of the plugin.
 
 == Changelog ==
+
+= 4.0.5 - 29/03/2023 =
+- Added: Richtext support in **Slider** block
+- Fixed: **Table of Content** block error fix
+- Fixed: **Post Grid** api response error fix
 
 = 4.0.4 - 20/03/2023 =
 - Added: Custom Filters in **Post Grid** and **Post Carrousel** block
